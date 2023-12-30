@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj210103&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj210103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvraj210103&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvraj210103" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://yuvraj21.vercel.app/](https://yuvraj21.vercel.app/)
 
-- 💬 Ask me about **react, typescript, MERN**
+- 💬 Ask me about **React, Typescript, MERN**
 
 - 📫 How to reach me **yuvrajssingh03@gmail.com**
 
